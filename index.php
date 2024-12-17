@@ -20,7 +20,7 @@
     
     <!-- Navbar -->
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
-        <a class="navbar-brand ms-3" href="index.php">Enrollment Management System</a>
+        <a class="navbar-brand ms-3" href="index.html">Enrollment Management System</a>
     </nav>
 
     <div class="container-fluid">
