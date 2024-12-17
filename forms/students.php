@@ -24,14 +24,14 @@
     
     <!-- Navbar -->
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
-    <a class="navbar-brand ms-3" href="../index.php">Enrollment Management System</a>
+    <a class="navbar-brand ms-3" href="../index.html">Enrollment Management System</a>
     </nav>
 
     <div class="container-fluid ">
         <div class="row">
             <!-- Sidebar -->
             <div class="col-md-3 sidebar">
-                <a href="../index.php">Dashboard</a>
+                <a href="../index.html">Dashboard</a>
                 <a href="students.php">Students Management</a>
                 <a href="subjects.php">Subject Management</a>
                 <a href="teachers.php">Teacher Management</a>
