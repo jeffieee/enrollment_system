@@ -31,7 +31,7 @@
         <div class="row">
             <!-- Sidebar -->
             <div class="col-md-3 sidebar">
-                <a href="../index.html">Dashboard</a>
+                <a href="../index.php">Dashboard</a>
                 <a href="students.php">Students Management</a>
                 <a href="subjects.php">Subject Management</a>
                 <a href="teachers.php">Teacher Management</a>

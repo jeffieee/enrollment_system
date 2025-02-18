@@ -1,0 +1,6 @@
+#bar-graph {
+    display: flex;
+    justify-content: center; /* Center-align horizontally */
+    align-items: center;    /* Center-align vertically (if needed) */
+    margin-top: 20px;       /* Space below the header */
+  }

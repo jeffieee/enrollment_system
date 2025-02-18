@@ -27,3 +27,28 @@ body {
 .content {
     padding: 20px;
 }
+
+#total-students {
+    color: black;
+    font-size: 24px;
+    font-weight: bold;
+  }
+
+#total-teachers {
+    color: black;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+#total-courses {
+    color: black;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+#total-subjects {
+    color: black;
+    font-size: 24px;
+    font-weight: bold;
+}
+  
